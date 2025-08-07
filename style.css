@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-family: 'Noto Serif JP', serif;
   background-color: #f8f1e7;
@@ -70,3 +71,58 @@ h2 {
   text-decoration: none;
   color: #3e2f1c;
 }
+=======
+/* style.css */
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  padding: 40px 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #eee;
+}
+
+.work-item {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border-left: 4px solid #b08968;
+  background-color: #fdf8f4;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.work-item h3 {
+  margin-top: 0;
+  color: #5a4633;
+}
+
+.work-item ul {
+  padding-left: 1.2rem;
+  list-style: disc;
+}
+>>>>>>> 542ba2b (Initial commit)
