@@ -27,7 +27,7 @@ Blue Latte は、実在しない架空のカフェをイメージした、ポー
 
 ## 🖥️ デモページ / Demo
 
-🔗 [GitHub Pagesで表示](https://your-username.github.io/blue-latte-lp/)  
+🔗 [GitHub Pagesで表示][(https://nain250.github.io/blue-latte-lp/)]
 ※ 公開後にリンクを修正してください
 
 ---
